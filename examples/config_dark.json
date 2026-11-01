@@ -1,0 +1,20 @@
+{
+  "sample": false,
+  "column": "",
+  "lines": [
+    "AI正在改变",
+    "谁的工作"
+  ],
+  "highlight": [
+    1
+  ],
+  "image": "/workspace/dpli-portfolio/best/05_clay-style_oscar_illustration.jpg",
+  "image_position": "center",
+  "font": "../assets/fonts/YueDongHei.ttf",
+  "period_mode": "dot",
+  "pattern_opacity": 0.14,
+  "suffix": "",
+  "red_mode": "C_green",
+  "letter_spacing": 0,
+  "line2_drop": 35
+}

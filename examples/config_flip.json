@@ -1,0 +1,16 @@
+{
+  "sample": false,
+  "column": "",
+  "lines": [
+    "AI正在改变",
+    "谁的工作"
+  ],
+  "highlight": [
+    1
+  ],
+  "image": "/workspace/dpli-portfolio/best/01_lamp-drawer_poster_4x3.jpg",
+  "image_position": "center",
+  "font": "../assets/fonts/YueDongHei.ttf",
+  "period_mode": "dot",
+  "letter_spacing": 0
+}
